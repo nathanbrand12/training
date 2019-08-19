@@ -32,4 +32,5 @@ print("\nHere is the list in alphabetical order:")
 print(sorted(Places))
 print("\nHere is the list in reverse order:")
 Places.reverse()
-
+message5 = "number 2"
+print message5
