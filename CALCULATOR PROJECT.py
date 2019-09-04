@@ -17,9 +17,6 @@ Function = input("Pick Operation (+ or - or * or /):")
 
 message1 = int(input("First Figure: "))
 message2 = int(input("Second Figure: "))
-if message1 != (int)
-    print("insert integer")
-
 
 if Function == '+':
     print(message1, "+", message2, "=", add(message1,message2))
