@@ -1,0 +1,1 @@
+EXTRAPULATION OF lower CASE letters into an UPPER CASE SETTING/MODE.
