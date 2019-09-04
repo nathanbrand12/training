@@ -7,16 +7,19 @@ def multiply(x, y):
 def divide(x, y):
     return x / y
 
+
 print("Pick Function")
 print("+ - Addition")
 print("- - Subtraction")
 print("* - Multiplication")
 print("/ - Division")
-
-Function = input("Pick (+ or - or * or /):")
+Function = input("Pick Operation (+ or - or * or /):")
 
 message1 = int(input("First Figure: "))
 message2 = int(input("Second Figure: "))
+if message1 != (int)
+    print("insert integer")
+
 
 if Function == '+':
     print(message1, "+", message2, "=", add(message1,message2))
@@ -30,4 +33,4 @@ elif Function == '*':
 elif Function == '/':
      print(message1, "/", message2, "=", divide(message1, message2))
 else:
-    print("Wrong Values")
+    print("Wrong Operation Input")
