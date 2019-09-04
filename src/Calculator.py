@@ -7,14 +7,9 @@ n = input("Please select appropriate numbers: \n")
 option = int(n)
 
 if(option == 1):
-    n = int(input("Please type in the first number for Addition:- "))
-    m = int(input("Plase type in the second number for Addition:- "))
-    result = n+m
-    print(result)
-elif(option == 2):
-    n = int(input("Please type in the first number for Multiplication:- "))
-    m = int(input("Plase type in the second number for Multiplication"))
-    result = n * m
+    first_Number = int(input("Please type in the first number for Addition:- "))
+    second_Numbber = int(input("Plase type in the second number for Addition:- "))
+    result = first_Number+second_Numbber
     print(result)
 else:
     print("whoops wrong operation selection!!!!")
