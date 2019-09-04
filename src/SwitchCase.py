@@ -1,0 +1,1 @@
+## This class make optional operation simple to perform
