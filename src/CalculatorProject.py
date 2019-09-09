@@ -13,6 +13,7 @@ print("+ - Addition")
 print("- - Subtraction")
 print("* - Multiplication")
 print("/ - Division")
+
 Function = input("Pick Operation (+ or - or * or /):")
 
 message1 = int(input("First Figure: "))
